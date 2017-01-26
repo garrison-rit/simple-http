@@ -18,8 +18,8 @@
     "url": "https://github.com/IGM-Real-Time-at-RIT/simple-http/issues"
   },
   "engines": {
-    "node": "7.1.0",
-    "npm": "3.10.19"
+    "node": "^7.1.0",
+    "npm": "^3.10.9"
   },
   "homepage": "https://github.com/IGM-Real-Time-at-RIT/simple-http#readme",
   "devDependencies": {
