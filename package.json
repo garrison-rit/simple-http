@@ -1,0 +1,30 @@
+{
+  "name": "simple-http",
+  "version": "1.0.0",
+  "description": "Simple http homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGM-Real-Time-at-RIT/simple-http.git"
+  },
+  "author": "Garrison Davis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/IGM-Real-Time-at-RIT/simple-http/issues"
+  },
+  "engines": {
+    "node": "7.1.0",
+    "npm": "3.10.19"
+  },
+  "homepage": "https://github.com/IGM-Real-Time-at-RIT/simple-http#readme",
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
